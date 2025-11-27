@@ -1,19 +1,19 @@
-# Peasant
+# peasant
 
 > **"Everything a modern peasant needs"** 💰  
 > Democratizing wealth-building tools that the upper class has always had access to
 
 ---
 
-## 🎯 What Is Peasant?
+## 🎯 What Is peasant?
 
-Peasant is a modular financial super app designed for working-class people. It teaches you the financial tricks that wealthy people already know and gives you the tools to escape the paycheck-to-paycheck trap.
+peasant is a modular financial super app designed for working-class people. It teaches you the financial tricks that wealthy people already know and gives you the tools to escape the paycheck-to-paycheck trap.
 
 ### The Mission
 
 **Stop being poor because you don't know what rich people know.**
 
-Peasant breaks down the financial gatekeeping and gives you:
+peasant breaks down the financial gatekeeping and gives you:
 - The knowledge wealthy people learn from their parents
 - The tools financial advisors charge thousands for
 - The tricks that keep you poor (and how to stop them)
@@ -23,7 +23,7 @@ Peasant breaks down the financial gatekeeping and gives you:
 
 ## 🧩 The Plugin Ecosystem
 
-Peasant is built on a modular plugin system. Each plugin solves one specific financial problem.
+peasant is built on a modular plugin system. Each plugin solves one specific financial problem.
 
 **Core Plugins:**
 1. **Budget Repair & Balance** - Track spending, kill subscriptions, optimize pay periods
@@ -56,7 +56,7 @@ This is a work in progress. The vision is big, but we're starting with the found
 
 ---
 
-## 🎓 Learning to Build Peasant
+## 🎓 Learning to Build peasant
 
 Want to learn how to build apps like this?
 

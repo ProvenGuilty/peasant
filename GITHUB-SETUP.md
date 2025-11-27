@@ -1,4 +1,4 @@
-# Setting Up Peasant on GitHub
+# Setting Up peasant on GitHub
 
 ## Create the Repository
 
@@ -34,7 +34,7 @@ git push -u origin main
 
 ### Social Preview
 Create a social preview image with:
-- "PEASANT"
+- "peasant"
 - "Everything a modern peasant needs"
 - 💰 emoji
 - Simple, bold design

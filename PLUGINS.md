@@ -1,4 +1,4 @@
-# Peasant Plugin Ecosystem
+# peasant Plugin Ecosystem
 
 > **"Everything a modern peasant needs"** - One app, infinite possibilities  
 > **Base App:** $0.99 | **Each Plugin:** $0.99
@@ -7,7 +7,7 @@
 
 ## 🎯 The Vision
 
-**Peasant** is a modular super app that teaches working-class people the financial tricks that wealthy people already know. Each plugin solves a real problem that keeps people poor.
+**peasant** is a modular super app that teaches working-class people the financial tricks that wealthy people already know. Each plugin solves a real problem that keeps people poor.
 
 ### The Business Model
 
@@ -215,7 +215,7 @@ Healthcare is the #1 cause of bankruptcy in America. The wealthy know how to gam
 ### **Phase 5: Advanced Wealth Building (Year 2-3)**
 
 #### Plugin 6: Investment Starter
-**"From Peasant to Investor"**
+**"From peasant to investor"**
 
 **What it does:**
 - Investment account comparison
@@ -352,7 +352,7 @@ Housing is your biggest expense. Getting it wrong costs hundreds of thousands ov
 - QR code payments
 
 **Why it matters:**
-Once you have users managing their money in Peasant, they should be able to move it too. This is the WeChat model - become the financial hub.
+Once you have users managing their money in peasant, they should be able to move it too. This is the WeChat model - become the financial hub.
 
 **Price:** Free (make money on interchange fees)
 
@@ -374,7 +374,7 @@ Once you have users managing their money in Peasant, they should be able to move
 - ATM fee reimbursement
 
 **Why it matters:**
-Traditional banks charge poor people fees. Peasant Banking doesn't. Plus, once you're the bank, you control the ecosystem.
+Traditional banks charge poor people fees. peasant Banking doesn't. Plus, once you're the bank, you control the ecosystem.
 
 **Price:** Free (make money on interchange and deposits)
 
@@ -679,7 +679,7 @@ Build out full ecosystem over time
 
 ## 💡 The Secret Sauce
 
-### What Makes Peasant Different
+### What Makes peasant Different
 
 **1. Modular Pricing**
 - Not subscription (no fatigue)
