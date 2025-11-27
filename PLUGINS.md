@@ -1,6 +1,6 @@
 # Peasant Plugin Ecosystem
 
-> **"Finance for the rest of us"** - One app, infinite possibilities  
+> **"Everything a modern peasant needs"** - One app, infinite possibilities  
 > **Base App:** $0.99 | **Each Plugin:** $0.99
 
 ---
@@ -796,7 +796,7 @@ Build out full ecosystem over time
 
 ---
 
-**PEASANT: Finance for the rest of us** 💰
+**peasant: Everything a modern peasant needs** 💰
 
 *Because we're all just peasants with smartphones, trying to make it in a world designed for the wealthy.*
 

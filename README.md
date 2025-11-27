@@ -1,6 +1,6 @@
 # Peasant
 
-> **"Finance for the rest of us"** 💰  
+> **"Everything a modern peasant needs"** 💰  
 > Democratizing wealth-building tools that the upper class has always had access to
 
 ---
@@ -133,7 +133,7 @@ See [VISION.md](./VISION.md) for the complete roadmap.
 
 ---
 
-**PEASANT: Finance for the rest of us** 💰
+**peasant: Everything a modern peasant needs** 💰
 
 *Because we're all just peasants with smartphones, trying to make it in a world designed for the wealthy.*
 

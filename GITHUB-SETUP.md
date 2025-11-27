@@ -4,7 +4,7 @@
 
 1. Go to https://github.com/new
 2. Repository name: `peasant`
-3. Description: `Finance for the rest of us - A modular financial super app for working-class people`
+3. Description: `Everything a modern peasant needs - A modular financial super app for working-class people`
 4. **Public** repository
 5. **Don't** initialize with README (we already have one)
 6. Click "Create repository"
@@ -20,7 +20,7 @@ git push -u origin main
 ## Repository Settings
 
 ### About Section
-- **Description:** Finance for the rest of us - Modular financial super app
+- **Description:** Everything a modern peasant needs - Modular financial super app
 - **Website:** (leave empty for now)
 - **Topics:** Add these tags:
   - `finance`
@@ -35,7 +35,7 @@ git push -u origin main
 ### Social Preview
 Create a social preview image with:
 - "PEASANT"
-- "Finance for the rest of us"
+- "Everything a modern peasant needs"
 - 💰 emoji
 - Simple, bold design
 
